@@ -1,0 +1,10 @@
+﻿{
+  "data": [
+    {
+      "name": "XXXX",
+      "url": "https://xxxx.com/xxxx.m3u8",
+      "pic": "https://xxxx.com/xxxx.jpg",
+      "parse": true
+    }
+  ]
+}

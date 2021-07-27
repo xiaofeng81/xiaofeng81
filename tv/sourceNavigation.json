@@ -1,0 +1,36 @@
+﻿{
+  "data": [
+     {
+      "name": "XXXX",
+      "pic": "https://xxxx.com/xxxx.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/xiaofeng81/1@main/tv/XXXX.json",
+      "type": "gitJson",
+      "subTitle": "XXXX",
+      "click": false,
+      "autoNext":true,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "userAgent": "",
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+    },
+   {
+      "name": "newTV",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/xiaofeng81/1@main/tv/newTV.txt",
+      "type": "txt",
+      "subTitle": "newTV",
+      "click": true,
+      "autoNext":true,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "userAgent": "",
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+    }
+  ]
+}
