@@ -1,0 +1,68 @@
+﻿{
+  "data": [
+   {
+      "name": "XXXX",
+      "pic": "https://xxxx.com/xxxx.webp",
+      "url": "https://gitee.com/xiaofeng81/xiaofeng/raw/master/tv/XXXX.txt",
+      "type": "txt",
+      "subTitle": "XXXX",
+      "click": true,
+      "autoNext": true,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "userAgent": "PC",
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+   },
+   {
+      "name": "XXXX",
+      "pic": "https://xxxx.com/xxxx.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/xiaofeng81/xiaofeng81@main/tv/XXXX.txt",
+      "type": "txt",
+      "subTitle": "XXXX",
+      "click": true,
+      "autoNext": true,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "userAgent": "",
+      "ads": "",
+      "decoder": 1,
+      "webPlus": {}
+    },
+    {
+      "name": "XXXX",
+      "pic": "https://xxxx.com/xxxx.webp",
+      "url": "https://gitee.com/xiaofeng81/xiaofeng/raw/master/tv/XXXX.json",
+      "type": "gitJson",
+      "subTitle": "XXXX",
+      "click": true,
+      "autoNext": true,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "userAgent": "",
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "XXXX",
+      "pic": "https://xxxx.com/xxxx.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/xiaofeng81/xiaofeng81@main/tv/XXXX.m3u",
+      "type": "m3u",
+      "subTitle": "XXXX",
+      "click": true,
+      "autoNext": true,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "userAgent": "",
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+    }
+  ]
+}
