@@ -1,0 +1,52 @@
+﻿{
+  "data": [
+     {
+      "name": "自用",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/xiaofeng81/xiaofeng81@main/tv/自用.json",
+      "type": "gitJson",
+      "subTitle": "自用",
+      "click": true,
+      "autoNext":true,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "userAgent": "",
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "newTV",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/xiaofeng81/xiaofeng81@main/tv/newTV.txt",
+      "type": "txt",
+      "subTitle": "newTV",
+      "click": true,
+      "autoNext":true,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "userAgent": "",
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "XXXX",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/xiaofeng81/xiaofeng81@main/tv/XXXX.txt",
+      "type": "txt",
+      "subTitle": "XXXX",
+      "click": true,
+      "autoNext":true,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "userAgent": "",
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+    }
+  ]
+}
